@@ -23,3 +23,4 @@ dmdb/src
 log*.txt
 w64-wtf
 w32-wtf
+w64-linux-wtf 
